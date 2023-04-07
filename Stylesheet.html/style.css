@@ -3,9 +3,16 @@
     padding: 0%;
 }
 
-div{
+.container{
         background-color: bisque;
         width: 100%;
         height: 50%;
         text-align: center;
+}
+
+.container-2{
+    background-color: burlywood;
+    width: 100%;
+    height: 50%;
+    text-align: center;
 }

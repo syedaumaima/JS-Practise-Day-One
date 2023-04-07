@@ -1,10 +1,10 @@
-alert(`JS practice day one`);
+/*alert(`JS practice day one`);
 
 /*document.write(`Hi there`);
 
 document.write(`6+6`);
 
-document.write(`<h1> this is heading 1 <h2>`);*/
+document.write(`<h1> this is heading 1 <h2>`);
 
 //Chapter 2
 
@@ -63,7 +63,7 @@ alert(
 userResponse
 userResponseTime
 userResponseTimeLimit
-respinse*/
+respinse
 
 
 //Chapter 5 Math expressions : Familiar operators
@@ -81,7 +81,7 @@ varpopularNumber = 3 * 12;
 
 1 var num  = 10;
 2 var anotherNum = 1;
-2 var varpopularNumber = num + anotherNum;*/
+2 var varpopularNumber = num + anotherNum;
 
 
 var whatsLeftOver = 10 % 3 ;
@@ -107,7 +107,7 @@ num--;
 2 var newNum = num--;
 
 1 var num = 1;
-2 var newNum = --num;*/
+2 var newNum = --num;
 
 //Chapter 7
 
@@ -128,7 +128,7 @@ alert("Thanks, " + userName + "!");
 
 1 var message = "Thanks, ";
 2 var banger = "!";
-3 alert(message + userName + banger);*/
+3 alert(message + userName + banger);
 
 alert("Thanks, " + "Susan" + "!");
 
@@ -136,7 +136,7 @@ alert("Thanks, " + "Susan" + "!");
 2 var userName = "Susan";
 3 var banger = "!";
 4 var customMess = message + userName + banger;
-5 alert(customMess);*/
+5 alert(customMess);
 
 alert("2" + "2");
 
@@ -146,12 +146,23 @@ alert("2 plus 2 equals " + 2 + 2);
 
 var spec = prompt("Your species?", "human");
 
-/*1 var question = "Your species?";
+1 var question = "Your species?";
 2 var defaultAnswer = "human";
 3 var spec = prompt(question, defaultAnswer);
 
 1 var numberOfCats = prompt("How many cats?");
 2 var tooManyCats = numberOfCats + 1;*/
+
+
+//JS Practise Day TWO
+
+var zakatPercentage = 0.025;
+
+var userInput = (prompt ("20000"));
+
+var result = (0.025 * 20000);
+
+alert(result);
 
 
 
