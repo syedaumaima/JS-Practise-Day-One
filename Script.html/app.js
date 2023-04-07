@@ -158,7 +158,7 @@ var spec = prompt("Your species?", "human");
 
 var zakatPercentage = 0.025;
 
-var userInput = (prompt ("enterYourValue"));
+var userInput = (prompt ("enterYourZakatValue"));
 
 var result = (0.025 * userInput);
 
